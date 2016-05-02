@@ -1,0 +1,28 @@
+name: collin
+favicon: null
+layout_spectrum: 0.7914599932264537
+typography_spectrum: 0.017253927886486053
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+  brandStrength: 0.09878811286762357
+  lightness: 0.1055178118404001
+  saturation: 0.4540885321330279
+  rhythmicContrast: 0.20508031244389713
+purpose: []
